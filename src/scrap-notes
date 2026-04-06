@@ -1,0 +1,6 @@
+pip install fastapi uvicorn pandas sqlalchemy imapclient pyzmail36
+
+
+fhbx giax klbb knhi
+
+python -m uvicorn main:app --reload
